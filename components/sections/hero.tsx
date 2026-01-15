@@ -42,7 +42,7 @@ export function HeroSection() {
             <div className="relative">
               <div className="w-64 h-80 sm:w-72 sm:h-96 md:w-80 md:h-[420px] lg:w-[380px] lg:h-[480px] rounded-3xl overflow-hidden border-4 border-primary/20 shadow-2xl">
                 <img
-                  src="Jahid.png"
+                  src="Jahid Hassan (1).jpg"
                   alt="Jahid-Hassan-Babu-Civil.pdf"
                   className="w-full h-full object-cover"
                 />
